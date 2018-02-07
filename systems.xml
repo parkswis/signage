@@ -2,14 +2,14 @@
 <systems>
 	<LT71140316021028>
 		<areas>
-		    <sa1>3</a>
-		    <sa2>6</b>
-		    <sa3>1</c>
-		    <sa4>8</d>
-		    <sa5>2</e>
-		    <sa6>5</f>
-		    <sa7>7</g>
-		    <sa8>4</h>
+		    <sa1>3</sa1>
+		    <sa2>6</sa2>
+		    <sa3>1</sa3>
+		    <sa4>8</sa4>
+		    <sa5>2</sa5>
+		    <sa6>5</sa6>
+		    <sa7>7</sa7>
+		    <sa8>4</sa8>
 		</areas>
 	</LT71140316021028>
 </systems>
