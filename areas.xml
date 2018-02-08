@@ -10,7 +10,7 @@
 	</a2>
 	<a3>
 		<Name>BeaverParking</Name>
-		<Status>Open</Status>
+		<Status>Closed</Status>
 	</a3>
 	<a4>
 		<Name>BostockParking</Name>
@@ -30,7 +30,7 @@
 	</a7>
 	<a8>
 		<Name>Cougar</Name>
-		<Status>Open</Status>
+		<Status>Closed</Status>
 	</a8>
 	<a9>
 		<Name>Cutbank</Name>
